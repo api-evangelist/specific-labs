@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "specific-labs",
+    "captured_at": "2026-10-11T192900",
+    "source_url": "https://withspecific.com",
+    "source_type": "Website",
+    "file": "specific-labs-2026-10-11T192900.png",
+    "bytes": 246674,
+    "capture": "playwright-local"
+  }
+]
